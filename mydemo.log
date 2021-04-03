@@ -1,0 +1,25 @@
+cd d:
+git init GitDemo
+ls - al
+cd GitDemo/
+echo "njnnm"
+cat name.txt
+git status
+git add name.txt
+git commit
+git status
+git remote add origin link
+git push -u origin master
+
+
+git branch Rohith
+git checkout Rohith
+git pull link
+git status
+npp name.txt
+change
+ git status
+git add.
+git status
+git commit
+git push origin Rohith
